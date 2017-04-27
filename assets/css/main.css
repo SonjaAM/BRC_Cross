@@ -1110,7 +1110,7 @@
 		}
 
 		body.is-loading #bg:before {
-			background-color: #000000;
+			background-color: #b2b2b2;
 		}
 
 /* Wrapper */
