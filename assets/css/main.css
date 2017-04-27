@@ -1297,7 +1297,7 @@
 		}
 
 			#header nav ul li {
-				padding-left: 0;
+				padding-left:;
 				border-left:;
 			}
 
@@ -1314,7 +1314,7 @@
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
-					border-bottom: 0;
+					border-bottom:;
 				}
 
 					#header nav ul li a:hover {
