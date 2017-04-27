@@ -92,11 +92,10 @@
 /* Type */
 
 	html {
-<<<<<<< HEAD
+
 		font-size: 15pt;
-=======
 		font-size: 16pt;
->>>>>>> parent of a5fb840... Update main.css
+
 	}
 
 		@media screen and (max-width: 1680px) {
