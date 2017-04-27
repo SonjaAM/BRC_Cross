@@ -31,14 +31,14 @@
 	}
 
 	ul {
-  	border: 1px solid white;
-  	margin: 5px;
-  	width: 85px;
+  		border: 1px solid white;
+  		margin: 5px;
+  		width: 150px;
 
-  	display: inline-block;
-  	box-sizing: border-box;
-  	-moz-box-sizing: border-box; /* Firefox */
-  	-webkit-box-sizing: border-box; /* Chrome, Safari */
+  		display: inline-block;
+  		box-sizing: border-box;
+  		-moz-box-sizing: border-box; /* Firefox */
+  		-webkit-box-sizing: border-box; /* Chrome, Safari */
 	}
 	
 	blockquote, q {
