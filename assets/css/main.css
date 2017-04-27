@@ -1248,8 +1248,13 @@
 		#header .content {
 			border-style: solid;
 			border-color:#ffffff;
+<<<<<<< HEAD
 			border-top-width:;
 			border-bottom-width:;
+=======
+			border-top-width: 1px;
+			border-bottom-width: 1px;
+>>>>>>> parent of 35232cf... Update main.css
 			max-width: 100%;
 		}
 
