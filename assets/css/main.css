@@ -1252,20 +1252,10 @@
 		#header .content {
 			border-style: solid;
 			border-color:#ffffff;
-<<<<<<< HEAD
-<<<<<<< HEAD
 			border-top-width:;
-<<<<<<< HEAD
 			border-bottom-width:;
-=======
-=======
->>>>>>> parent of 35232cf... Update main.css
-			border-top-width: 1px;
-			border-bottom-width: 1px;
->>>>>>> parent of 35232cf... Update main.css
-=======
-			border-bottom-width: 1px;
->>>>>>> parent of 5d44731... Update main.css
+			border-top-width:;
+			border-bottom-width:;
 			max-width: 100%;
 		}
 
