@@ -92,13 +92,13 @@
 /* Type */
 
 	html {
-		font-size: 20pt;
+		font-size: 15pt;
 	}
 
 		@media screen and (max-width: 1680px) {
 
 			html {
-				font-size: 16pt;
+				font-size: 13pt;
 			}
 
 		}
@@ -106,7 +106,7 @@
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 15pt;
+				font-size: 12pt;
 			}
 
 		}
