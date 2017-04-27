@@ -1251,6 +1251,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 			border-top-width:;
+<<<<<<< HEAD
 			border-bottom-width:;
 =======
 =======
@@ -1258,6 +1259,9 @@
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 >>>>>>> parent of 35232cf... Update main.css
+=======
+			border-bottom-width: 1px;
+>>>>>>> parent of 5d44731... Update main.css
 			max-width: 100%;
 		}
 
