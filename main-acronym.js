@@ -30,7 +30,7 @@ function renderHTML(data) {
         htmlString = data[i][1];
 
         if (htmlString === x) {
-            definition[numberofdefinition] = "<p>" + data[i][2] + "<p>" + data[i][3] + "<a href='" + data[i][4] + "'><p>" + data[i][4] + "</a>";
+            definition[numberofdefinition] = "<p>" + data[i][2] + "<p>" + data[i][3] + "<a href='" + data[i][4] + "'><p>" + data[i][4] + "' target='_blank'</a>";
             numberofdefinition += 1; /* counts up if a another is found */
             didyoufindit = "yes";
         }
